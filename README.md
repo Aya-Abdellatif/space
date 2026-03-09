@@ -1,27 +1,72 @@
-# Space
+# 🚀 Space Explorer - Angular Landing Page
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
+A modern **Space-themed landing page** built using **Angular**, **Bootstrap**, and **SCSS** for customized styling.  
+The project demonstrates building a responsive UI with reusable Angular components and customized Bootstrap design.
 
-## Development server
+![demo](https://github.com/user-attachments/assets/5b7a0909-6c81-45b2-bfbb-e04d68bb89c3)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+🔗 Live Demo: https://aya-abdellatif.github.io/space/
 
-## Code scaffolding
+---
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Technologies Used
 
-## Build
+- **Angular** – Frontend framework for building the application structure
+- **Bootstrap 5** – Responsive layout and UI components
+- **SCSS** – Used to customize Bootstrap styles
+- **HTML5**
+- **TypeScript**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+---
 
-## Running unit tests
+## Features
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Modern **space-themed UI**
+- **Fully responsive layout**
+- **Component-based Angular architecture**
+- **Bootstrap customization using SCSS**
+- Blog-style content cards
+---
 
-## Running end-to-end tests
+## 📂 Project Structure
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+```
 
-## Further help
+src/
+│
+├── app/
+│   ├── components/
+│   │   ├── navbar
+│   │   ├── home
+│   │   ├── features
+│   │   ├── blog
+│   │   └── footer
+│   │
+│   │
+│   └── app.module.ts
+│
+├── assets/
+│   |
+│   └── images
+│
+└── styles.scss
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+````
+
+---
+
+## Learning Goals
+
+This project helped practice:
+
+* Angular component structure
+* Bootstrap layout system
+* SCSS customization
+* Responsive design
+* Building modern landing pages
+
+---
+
+## Author
+
+**Aya Abdellatif**
