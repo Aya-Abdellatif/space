@@ -28,7 +28,7 @@ The project demonstrates building a responsive UI with reusable Angular componen
 - Blog-style content cards
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 
