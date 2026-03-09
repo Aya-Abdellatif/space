@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+$dark: rgba(49, 10, 56, 0.5);
+$light: rgb(227, 223, 223);
+$primary: #007bff;
+$input-placeholder-color: rgba(255, 255, 255, 0.5);
+
+.hero-search{
+    top: 140px !important;
+    left: 100px !important;
+    h1{
+      letter-spacing: 2px;  
+    } 
+}
+
+.c{
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    &:hover{
+        transform: translateY(-3px) scale(1.02);
+        box-shadow: 0 10px 20px rgba(#7d2ae8, 0.4);
+        filter: brightness(1.1);
+    }
+}
+
+@import "bootstrap/scss/bootstrap";
